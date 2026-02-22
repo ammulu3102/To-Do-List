@@ -1,0 +1,86 @@
+.screen {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* background: #f2f2f2; */
+  color: rgba(0, 0, 0, 0.753);
+  background-color: black;
+}
+
+.box {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  width: 360px;
+}
+
+.inputRow {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 15px;
+}
+
+.input {
+  flex: 1;
+  padding: 8px;
+  background-color: white;
+  color: black;
+  border: none;
+  font-size: 18px;
+  border-radius: 6px;
+}
+
+.list {
+  padding: 0;
+}
+
+.addBtn {
+  padding: 8px 12px;
+  cursor: pointer;
+  color: white;
+  background-color: rgb(30, 190, 30);
+  border: none;
+  font-size: 20px;
+  border-radius: 5px;
+}
+.addBtn:hover {
+  background-color: rgb(10, 129, 10);
+  color: white;
+}
+.listItem {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+  color: blue;
+}
+
+.circle {
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  border: 2px solid black;
+  cursor: pointer;
+}
+
+.taskText {
+  flex: 1;
+  text-align: left;
+}
+.strike {
+  text-decoration: line-through;
+  color: gray;
+}
+.filled {
+  background-color: rgba(0, 0, 0, 0.781);
+}
+
+.deleteBtn {
+  background: none;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-size: 18px;
+}
