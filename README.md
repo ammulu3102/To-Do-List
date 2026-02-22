@@ -7,7 +7,7 @@ It allows users to add, delete, and manage daily tasks.
 Here is a short demo of the application:
 
 👉 **Live Demo GIF:**  
-https://github.com/USERNAME/REPOSITORY_NAME/blob/main/demo.gif
+https://github.com/ammulu3102/To-Do-List.git/
 
 
 
@@ -33,6 +33,6 @@ https://github.com/USERNAME/REPOSITORY_NAME/blob/main/demo.gif
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/ammulu3102/To-Do-List.git
 
 
