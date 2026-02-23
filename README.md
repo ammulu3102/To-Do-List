@@ -7,7 +7,7 @@ It allows users to add, delete, and manage daily tasks.
 Here is a short demo of the application:
 
 👉 **Live Demo GIF:**  
-https://github.com/ammulu3102/To-Do-List.git/
+(https://github.com/ammulu3102/To-Do-List/main/src/To-do-List.gif)
 
 
 
