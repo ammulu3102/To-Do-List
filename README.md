@@ -35,22 +35,36 @@ It allows users to add, delete, and manage daily tasks.
 todo-app/
 │
 ├── src/
+
 │   ├── assets/
+
 │   │   └── (images / icons if any)
 │   │
-│   ├── App.jsx          # Main Todo component
-│   ├── App.css          # Styles for App
-│   ├── index.css        # Global styles
-│   ├── main.jsx         # App entry point
-│   └── To-do-List.gif   # Demo GIF for README
+
+│   ├── App.jsx 
+
+│   ├── App.css 
+
+│   ├── index.css 
+
+│   ├── main.jsx  
+
+│   └── To-do-List.gif 
+
+
 │
-├── public/              # Static files (if any)
+├── public/   
+
 │
-├── README.md            # Project documentation
-├── package.json         # Project info & dependencies
-├── package-lock.json    # Dependency lock file
-├── vite.config.js       # Vite configuration
-└── .gitignore           # Files Git should ignore
+├── README.md  
+
+├── package.json     
+
+├── package-lock.json
+
+├── vite.config.js 
+
+└── .gitignore           
 
 
 ## 🚀 Getting Started
