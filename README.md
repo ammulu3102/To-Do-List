@@ -34,33 +34,42 @@ It allows users to add, delete, and manage daily tasks.
 
 todo-app/
 │
+
 ├── src/
 
-│   ├── assets/
+│ 
 
-│   │   └── (images / icons if any)
-│   │
+├── assets/
+
+│  
+
+└── (images / icons if any)
+
 
 │   ├── App.jsx 
 
+
 │   ├── App.css 
+
 
 │   ├── index.css 
 
-│   ├── main.jsx  
+│   ├── main.jsx 
+
 
 │   └── To-do-List.gif 
 
 
-│
 ├── public/   
 
-│
+
+
 ├── README.md  
 
 ├── package.json     
 
 ├── package-lock.json
+
 
 ├── vite.config.js 
 
