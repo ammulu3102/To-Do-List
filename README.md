@@ -10,6 +10,10 @@ Here is a short demo of the application:
 (https://github.com/ammulu3102/To-Do-List/main/src/To-do-List.gif)
 
 
+## 🎥 Demo
+![Todo App Demo](https://raw.githubusercontent.com/ammulu3102/To-Do-List/main/src/To-do-List.gif)
+
+
 
 
 ## ✨ Features
