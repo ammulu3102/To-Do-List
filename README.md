@@ -35,6 +35,16 @@ It allows users to add, delete, and manage daily tasks.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/ammulu3102/To-Do-List.git
+git clone https://github.com/ammulu3102/To-Do-List.git## ▶️ Open the Application
+
+
+### ▶️ Open the Application
+Run the project locally using Vite:
+
+```bash
+npm run dev
+
+
+
 
 
